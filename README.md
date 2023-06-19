@@ -1,11 +1,11 @@
-About r-conflr
-==============
+About r-conflr-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-conflr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://line.github.io/conflr/, https://github.com/line/conflr
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-conflr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides utilities for working with various 'Confluence' API <https://docs.atlassian.com/ConfluenceServer/rest/latest/>, including a functionality to convert an R Markdown document to 'Confluence' format and upload it to 'Confluence' automatically.
 
